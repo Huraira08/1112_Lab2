@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab2-d48df"
+  },
+  "targets": {
+    "lab2-d48df": {
+      "hosting": {
+        "q2": [
+          "lab2q2-1112"
+        ]
+      }
+    }
+  }
+}
